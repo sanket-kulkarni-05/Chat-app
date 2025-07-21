@@ -17,9 +17,5 @@
     "url": "https://github.com/sanket-kulkarni-05/Chat-app/issues"
   },
   "homepage": "https://github.com/sanket-kulkarni-05/Chat-app#readme",
-  "description": "",
-  "dependencies": {
-    "@vitejs/plugin-react": "^4.7.0",
-    "install": "^0.13.0"
-  }
+  "description": ""
 }
